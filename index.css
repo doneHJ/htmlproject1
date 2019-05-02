@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+ }
+#Title {
+    color:rgb(9, 240, 78);
+    background-color:hotpink;
+}
+#Header {
+    color:rgb(139,43,155);
+}
+#Warning {
+    color:rgb(204,29,29);
+}
+#NBB {
+    color: rgb(30,149,200);
+}
+#MyBlog {
+    color:rgb(234,255,8);
+}
+#MyBlog:hover {
+    cursor:wait;
+}
+#NB{
+    color:rgb(240,9,167);
+}
+#N{
+    color:rgb(240, 167, 9);
+}
